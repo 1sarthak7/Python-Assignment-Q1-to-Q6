@@ -1,5 +1,4 @@
 # Python-Assignment-Q1-to-Q6
-# Python Programming Assignment
 
 This repository contains my **Python class assignment**, submitted as part of academic coursework. The programs demonstrate **basic Python concepts**.
 
